@@ -1,0 +1,36 @@
+|                          PERSON | voter_votes_for |
+| :------------------------------ | --------------: |
+|                           Jason |             247 |
+|                       Falsifian |             224 |
+|                              G. |             165 |
+|                            Aris |             197 |
+|                             twg |             151 |
+|                          Murphy |             163 |
+|                          Trigon |             141 |
+|                          ATMunn |             122 |
+|                             nix |             105 |
+| Publius Scribonius Scholasticus |             119 |
+|                          R. Lee |              86 |
+|                          Gaelan |              76 |
+|                           Rance |              64 |
+|                          Bernie |              68 |
+|                          Alexis |              61 |
+|                        Telnaior |              46 |
+|                     Cuddle Beam |              73 |
+|                             omd |              33 |
+|                           sukil |              39 |
+|                   Jacob Arduino |              39 |
+|                               o |              34 |
+|                          Tcbapo |              32 |
+|                      D. Margaux |              28 |
+|                        Warrigal |              26 |
+|             Baron von Vanderham |              24 |
+|                           pikhq |              10 |
+|                          Halian |              14 |
+|                               L |              15 |
+|                          Walker |               2 |
+|                     Tarhulindur |               1 |
+|                        lucidiot |               5 |
+|                            JTAC |               4 |
+|                            Noah |               1 |
+|                         Shy Owl |               1 |

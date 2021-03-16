@@ -1,0 +1,36 @@
+|                          PERSON | voter_strength_cumulative |
+| :------------------------------ | ------------------------: |
+|                           Jason |                      1360 |
+|                       Falsifian |                      1155 |
+|                              G. |                      1240 |
+|                            Aris |                      1013 |
+|                             twg |                       728 |
+|                          Murphy |                       682 |
+|                          Trigon |                       826 |
+|                          ATMunn |                       625 |
+|                             nix |                       625 |
+| Publius Scribonius Scholasticus |                       587 |
+|                          R. Lee |                       391 |
+|                          Gaelan |                       336 |
+|                           Rance |                       354 |
+|                          Bernie |                       315 |
+|                          Alexis |                       319 |
+|                        Telnaior |                       225 |
+|                     Cuddle Beam |                       231 |
+|                             omd |                       227 |
+|                           sukil |                       189 |
+|                   Jacob Arduino |                       183 |
+|                               o |                       183 |
+|                          Tcbapo |                       168 |
+|                      D. Margaux |                       156 |
+|                        Warrigal |                       126 |
+|             Baron von Vanderham |                        87 |
+|                           pikhq |                        60 |
+|                          Halian |                        57 |
+|                               L |                        57 |
+|                          Walker |                        15 |
+|                     Tarhulindur |                        15 |
+|                        lucidiot |                        15 |
+|                            JTAC |                        14 |
+|                            Noah |                         6 |
+|                         Shy Owl |                         3 |

@@ -1,0 +1,20 @@
+|                          PERSON | coauthor_adopted |
+| :------------------------------ | ---------------: |
+|                              G. |               28 |
+|                           Jason |               31 |
+|                            Aris |               20 |
+|                       Falsifian |               13 |
+|                             nix |               16 |
+|                          Trigon |               15 |
+|                             twg |               10 |
+|                          Alexis |                7 |
+| Publius Scribonius Scholasticus |               10 |
+|                          Gaelan |                7 |
+|                             omd |                3 |
+|                          Murphy |                3 |
+|                          ais523 |                4 |
+|                          ATMunn |                3 |
+|                          R. Lee |                1 |
+|                      D. Margaux |                1 |
+|                          Oerjan |                0 |
+|                     Cuddle Beam |                1 |

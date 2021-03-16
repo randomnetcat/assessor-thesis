@@ -1,0 +1,36 @@
+|                          PERSON | voter_votes_against |
+| :------------------------------ | ------------------: |
+|                           Jason |                  79 |
+|                       Falsifian |                  78 |
+|                              G. |                  89 |
+|                            Aris |                  59 |
+|                             twg |                  49 |
+|                          Murphy |                  28 |
+|                          Trigon |                  29 |
+|                          ATMunn |                  19 |
+|                             nix |                  28 |
+| Publius Scribonius Scholasticus |                  31 |
+|                          R. Lee |                  45 |
+|                          Gaelan |                  28 |
+|                           Rance |                  40 |
+|                          Bernie |                  20 |
+|                          Alexis |                  30 |
+|                        Telnaior |                  15 |
+|                     Cuddle Beam |                   1 |
+|                             omd |                  22 |
+|                           sukil |                   9 |
+|                   Jacob Arduino |                  13 |
+|                               o |                  25 |
+|                          Tcbapo |                  17 |
+|                      D. Margaux |                   8 |
+|                        Warrigal |                   4 |
+|             Baron von Vanderham |                   3 |
+|                           pikhq |                   8 |
+|                          Halian |                   2 |
+|                               L |                   1 |
+|                          Walker |                   3 |
+|                     Tarhulindur |                   4 |
+|                        lucidiot |                   0 |
+|                            JTAC |                   0 |
+|                            Noah |                   0 |
+|                         Shy Owl |                   0 |

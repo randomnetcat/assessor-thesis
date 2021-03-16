@@ -1,0 +1,36 @@
+|                          PERSON | voter_determination_rate |
+| :------------------------------ | -----------------------: |
+|                           Jason |                     0.23 |
+|                       Falsifian |                     0.07 |
+|                              G. |                     0.21 |
+|                            Aris |                     0.14 |
+|                             twg |                     0.10 |
+|                          Murphy |                     0.10 |
+|                          Trigon |                     0.13 |
+|                          ATMunn |                     0.05 |
+|                             nix |                     0.07 |
+| Publius Scribonius Scholasticus |                     0.11 |
+|                          R. Lee |                     0.12 |
+|                          Gaelan |                     0.04 |
+|                           Rance |                     0.02 |
+|                          Bernie |                     0.03 |
+|                          Alexis |                     0.11 |
+|                        Telnaior |                     0.03 |
+|                     Cuddle Beam |                     0.05 |
+|                             omd |                     0.05 |
+|                           sukil |                     0.02 |
+|                   Jacob Arduino |                     0.05 |
+|                               o |                     0.08 |
+|                          Tcbapo |                     0.09 |
+|                      D. Margaux |                     0.02 |
+|                        Warrigal |                     0.00 |
+|             Baron von Vanderham |                     0.00 |
+|                           pikhq |                     0.05 |
+|                          Halian |                     0.05 |
+|                               L |                     0.00 |
+|                          Walker |                     0.60 |
+|                     Tarhulindur |                     0.00 |
+|                        lucidiot |                     0.00 |
+|                            JTAC |                     0.00 |
+|                            Noah |                     0.00 |
+|                         Shy Owl |                     0.00 |

@@ -1,0 +1,18 @@
+G.: 0.68
+Jason: 0.78
+Aris: 0.77
+Falsifian: 0.76
+nix: 0.94
+Trigon: 0.94
+twg: 0.67
+Alexis: 0.47
+Publius Scribonius Scholasticus: 0.77
+Gaelan: 0.70
+omd: 0.60
+Murphy: 0.60
+ais523: 1.00
+ATMunn: 1.00
+R. Lee: 0.50
+D. Margaux: 1.00
+Oerjan: 0.00
+Cuddle Beam: 1.00

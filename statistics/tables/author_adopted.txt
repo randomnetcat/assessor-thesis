@@ -1,0 +1,24 @@
+|                          PERSON | author_adopted |
+| :------------------------------ | -------------: |
+|                            Aris |             57 |
+|                           Jason |             56 |
+|                              G. |             38 |
+|                          Murphy |             12 |
+|                          R. Lee |             11 |
+|                          Alexis |              9 |
+|                             nix |             12 |
+|                       Falsifian |             11 |
+|                          Gaelan |              3 |
+| Publius Scribonius Scholasticus |              9 |
+|                          ATMunn |              4 |
+|                          Bernie |              4 |
+|                             twg |              2 |
+|                          Trigon |              1 |
+|                   Jacob Arduino |              2 |
+|                             omd |              3 |
+|             Baron von Vanderham |              3 |
+|                      D. Margaux |              0 |
+|                        Warrigal |              2 |
+|                     Cuddle Beam |              0 |
+|                            grok |              1 |
+|                        Telnaior |              1 |

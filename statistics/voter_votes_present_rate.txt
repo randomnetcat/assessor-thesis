@@ -1,0 +1,34 @@
+Jason: 0.12
+Falsifian: 0.17
+G.: 0.16
+Aris: 0.10
+twg: 0.14
+Murphy: 0.14
+Trigon: 0.19
+ATMunn: 0.21
+nix: 0.24
+Publius Scribonius Scholasticus: 0.03
+R. Lee: 0.13
+Gaelan: 0.13
+Rance: 0.12
+Bernie: 0.16
+Alexis: 0.06
+Telnaior: 0.19
+Cuddle Beam: 0.00
+omd: 0.25
+sukil: 0.24
+Jacob Arduino: 0.15
+o: 0.03
+Tcbapo: 0.13
+D. Margaux: 0.31
+Warrigal: 0.29
+Baron von Vanderham: 0.07
+pikhq: 0.10
+Halian: 0.16
+L: 0.16
+Walker: 0.00
+Tarhulindur: 0.00
+lucidiot: 0.00
+JTAC: 0.00
+Noah: 0.50
+Shy Owl: 0.00

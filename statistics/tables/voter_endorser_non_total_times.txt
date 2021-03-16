@@ -1,0 +1,36 @@
+|                          PERSON | voter_endorser_non_total_times |
+| :------------------------------ | -----------------------------: |
+|                           Jason |                             22 |
+|                       Falsifian |                            126 |
+|                              G. |                              7 |
+|                            Aris |                              8 |
+|                             twg |                             65 |
+|                          Murphy |                              3 |
+|                          Trigon |                              4 |
+|                          ATMunn |                              9 |
+|                             nix |                              8 |
+| Publius Scribonius Scholasticus |                              6 |
+|                          R. Lee |                              0 |
+|                          Gaelan |                             20 |
+|                           Rance |                              0 |
+|                          Bernie |                              1 |
+|                          Alexis |                              9 |
+|                        Telnaior |                              0 |
+|                     Cuddle Beam |                              0 |
+|                             omd |                              3 |
+|                           sukil |                              0 |
+|                   Jacob Arduino |                              0 |
+|                               o |                              0 |
+|                          Tcbapo |                              0 |
+|                      D. Margaux |                             15 |
+|                        Warrigal |                              0 |
+|             Baron von Vanderham |                              2 |
+|                           pikhq |                              0 |
+|                          Halian |                              0 |
+|                               L |                              0 |
+|                          Walker |                              0 |
+|                     Tarhulindur |                              0 |
+|                        lucidiot |                              0 |
+|                            JTAC |                              1 |
+|                            Noah |                              0 |
+|                         Shy Owl |                              0 |

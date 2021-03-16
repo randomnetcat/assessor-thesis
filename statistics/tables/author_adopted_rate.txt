@@ -1,0 +1,24 @@
+|                          PERSON | author_adopted_rate |
+| :------------------------------ | ------------------: |
+|                            Aris |                0.80 |
+|                           Jason |                0.86 |
+|                              G. |                0.86 |
+|                          Murphy |                0.43 |
+|                          R. Lee |                0.50 |
+|                          Alexis |                0.41 |
+|                             nix |                0.75 |
+|                       Falsifian |                0.73 |
+|                          Gaelan |                0.30 |
+| Publius Scribonius Scholasticus |                0.90 |
+|                          ATMunn |                0.57 |
+|                          Bernie |                0.67 |
+|                             twg |                0.40 |
+|                          Trigon |                0.25 |
+|                   Jacob Arduino |                0.67 |
+|                             omd |                1.00 |
+|             Baron von Vanderham |                1.00 |
+|                      D. Margaux |                0.00 |
+|                        Warrigal |                1.00 |
+|                     Cuddle Beam |                0.00 |
+|                            grok |                1.00 |
+|                        Telnaior |                1.00 |

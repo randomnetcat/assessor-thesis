@@ -1,0 +1,24 @@
+|                          PERSON | author_adopted_words |
+| :------------------------------ | -------------------: |
+|                            Aris |                 9706 |
+|                           Jason |                 6268 |
+|                              G. |                 4577 |
+|                          Murphy |                 1175 |
+|                          R. Lee |                  612 |
+|                          Alexis |                 3200 |
+|                             nix |                 3383 |
+|                       Falsifian |                  662 |
+|                          Gaelan |                  274 |
+| Publius Scribonius Scholasticus |                  808 |
+|                          ATMunn |                  645 |
+|                          Bernie |                 1370 |
+|                             twg |                  219 |
+|                          Trigon |                  184 |
+|                   Jacob Arduino |                   77 |
+|                             omd |                  617 |
+|             Baron von Vanderham |                  221 |
+|                      D. Margaux |                    0 |
+|                        Warrigal |                   76 |
+|                     Cuddle Beam |                    0 |
+|                            grok |                   85 |
+|                        Telnaior |                   31 |
