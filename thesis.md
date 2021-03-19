@@ -1132,3 +1132,8 @@ have allowed authors to formally cancel proposals, so it makes sense that e trie
 
 This thesis was based on a very silly premise, but hopefully you, dear reader, found it at least mildly interesting.
 The source code for the generation of the stats and graphs will be available in the AgoraNomic/assessor repository.
+
+## 6. Acknowledgements
+
+* nch and G. for helping me develop the initial idea and letting me bounce stuff off them
+* everyone in the unofficial Discord server for tolerating the large amount of images and stats I posted
