@@ -4,7 +4,7 @@
 ## 0. ~~Questions I imagined being frequently asked~~ Preamble
 
 ### Where do these data come from?
-I've been doing using automation for assessments for most of the time that I've been Assessor.
+I've been using automation for assessments for most of the time that I've been Assessor.
 
 ### What time frame do these data cover?
 The entire time I've been Assessor (except for my first assessment, which I made by hand) until I was partway done with
@@ -16,6 +16,14 @@ Influencers have been ruining our once-prosperous society by, uhh, influencing.
 I'm going to root out the evil influencers so that they can be tracked, imprisoned, and burned at the stake.
 
 I will also write this thesis about it, apparently.
+
+### But what is influencing?
+
+For the purposes of this thesis, influencing will be defined as "exerting power to impact Agora". This can include
+both direct changes to the gamestate, causing officers to do work, or convincing people to take one's point of view.
+
+Because there isn't a great way to measure this directly, here I will look at several different measures in order to
+attempt to measure influence.
 
 ### How are the graphs generated?
 
@@ -226,7 +234,8 @@ economy, so it makes sense for both of them to be relatively long.
 Let the margin of a resolution to be F - AI*A, where F is the strength FOR, A is the strength AGAINST, and AI is the
 adoption index of the decision. This means that a non-negative margin results in adoption (except for 0 margin on an
 AI-1 proposal), while a negative margin results in rejection. Thus, a person whose proposals achieve higher voting
-strength margins will find it easier to pass proposals, making them more influential.
+strength margins will find it easier to pass proposals, making them potentially more influential in the future, and
+indicating that they have been more influential in the past by mustering agreement for their proposals.
 
 #### 1.5.1 Total Proposal Strength Margins
 
@@ -275,7 +284,8 @@ the most influential.
 In addition to looking at voting strength margins over all proposals, we can also look at margins over only adopted
 proposals. This provides a sense of how much agreement an author is able to muster on proposals, i.e. whether they
 pass convincingly or squeak by. This is a more refined measure than looking at margins over all proposals, because it
-doesn't provide a sense of how often proposals pass, just how strongly they pass when they do.
+doesn't provide a sense of how often proposals pass, just how strongly they pass when they do. A higher value for this
+metric indicates social influence in building consensus for proposals.
 
 ![Author adopted strength margin box plot](statistics/graphs/author_avg_adopted_strength_margin_box_plot.svg)
 
@@ -360,7 +370,8 @@ low power rule; what's not to like?
 
 The strength margins for rejected proposals by each author show how much an author's proposals fail by when they do
 fail. A person who has margins closer to zero (indicating the proposals were closer to passing) will be deemed to be
-more influential, as it means they were generally closer to getting their failed proposals to pass.
+more influential, as it means they were generally closer to getting their failed proposals to pass, once again
+indicating (slightly) more ability to build social consensus than those with more negative margins.
 
 ![Author adopted strength margin box plot](statistics/graphs/author_avg_rejected_strength_margin_box_plot.svg)
 
@@ -932,14 +943,15 @@ This is an unusual decision because a majority of its voters ultimately endorse 
 endorsers actually endorsed twg, who then endorsed omd). This means that omd alone ultimately controlled the outcome
 of the decision. This is a (rather extreme) example of how endorsements can result in a voter being determinative.
 
-### 4.3 Result Agreement by Voter
+### 2.6 Result Agreement by Voter
 
 A voter "agrees" with the result of a decision if e voted FOR, and the resolution was ADOPTED; or if e voted AGAINST,
 and the resolution was REJECTED. Alternatively, a voter "disagrees" with the result of a decision if e voted AGAINST,
 and the resolution was ADOPTED; or if e voted FOR, and the resolution was REJECTED. Note that this definition does not
 imply a voter agrees or disagrees with the result of every decision -- if e voted PRESENT or if the decision was
-resolved FAILED QUORUM, e neither agrees nor disagrees with the result. Correleation is not causation, but having an
-abnormally high result agreement rate could 
+resolved FAILED QUORUM, e neither agrees nor disagrees with the result. Correlation is not causation, but having an
+abnormally high result agreement rate could indicate that a person has social ways of influencing other people to vote
+in agreement with em, which would make em an influencer.
 
 ![voter-result agreement graph](statistics/graphs/voter_result_agreement.svg)
 
@@ -988,15 +1000,16 @@ abnormally high result agreement rate could
 The above graph shows that Agorans tend to agree a lot, with most people agreeing with proposal outcomes upwards of two-
 thirds of the time. The results most often agree with PSS's vote, making em the most influential and suggesting that e
 had some magical way of influencing the outcome of decisions, or it could just be that e agrees with the populace most
-of the time. Although e has a relatively high average voting, G. has as significantly higher average voting strength, but a significantly
-lower result agreement rate. So it appears that this just indicates that e often agrees with the majority or that
-the majority often agrees with em (based on eir office-holding or vote comments).
+of the time. Although e has a relatively high average voting, G. has as significantly higher average voting strength,
+but a significantly lower result agreement rate. So it appears that this just indicates that e often agrees with the
+majority or that the majority often agrees with em (based on eir office-holding or vote comments), of which only the
+latter would make em an influencer.
 
 The most often that any voter disagreed with the result of a decision was 26% by L (mostly a zombie), and the most of
 any common voter was 23% by Alexis. Cuddlebeam's disagreement with other Agorans show up here, too. E disagreed with the
 result of decisions 22% of the time.
 
-**MOST INFLUENTIAL: PSS**
+**MOST INFLUENTIAL (perhaps): PSS**
 
 ## 3. The Most Influential Agoran
 
@@ -1039,6 +1052,13 @@ By associating each vote resolution with a number (-1 for AGAINST, 0 for PRESENT
 between people's voting can be calculated. This yields the following chart:
 
 ![voter-voter agreement graph](statistics/graphs/voter_agreement.svg)
+
+Note that the agreement is only measured based on decisions where both voters voted. This potentially skews the results
+if people abstain when they don't have a strong opinion on a decision (and would be PRESENT if voting), but there's not
+a sane way to handle this with the data that I have. I have no way to distinguish between a voter intentionally or
+unintentionally abstaining, and I have no easy way to determine if a voter was even a player for any particular
+decision. This means that only counting decisions where both voters voted is the most sanely implementable way to
+measure this, even if it potentially results in skew.
 
 Looking at the top left of the chart, we see a sea of blue, indicating that the people who vote the most tend to agree
 with each other a lot. One small exception to this trend is Bernie & PSS, who happen to have a negative correlation.
@@ -1135,5 +1155,6 @@ The source code for the generation of the stats and graphs will be available in 
 
 ## 6. Acknowledgements
 
-* nch and G. for helping me develop the initial idea and letting me bounce stuff off them
-* everyone in the unofficial Discord server for tolerating the large amount of images and stats I posted
+* nix and G. for helping me develop the initial idea and letting me bounce stuff off them
+* everyone in the unofficial Discord server for tolerating the large amount of images and stats I posted, then reviewing
+  the first draft of this thesis
