@@ -459,6 +459,52 @@ author, who voted AGAINST.
 
 **MOST INFLUENTIAL: G.**
 
+### 1.6 Proposals Co-authored
+
+Directly writing and submitting proposals is not the only way to contribute to the proposal process. Many players read
+and provide feedback on proposal drafts, or even drafting wording that the author ends up including in the final
+proposal. This means that co-authoring proposals shows that a person contributed to the authoring of the proposal, thus
+influencing both the author and, potentially, the gamestate (if and when the proposal is adopted).
+
+[Data in plain text](statistics/coauthor_written.txt)
+
+|                          Person | Proposals Co-Authored |
+| :------------------------------ | ---------------: |
+|                              G. |               41 |
+|                           Jason |               40 |
+|                            Aris |               26 |
+|                       Falsifian |               17 |
+|                             nix |               17 |
+|                          Trigon |               16 |
+|                             twg |               15 |
+|                          Alexis |               15 |
+| Publius Scribonius Scholasticus |               13 |
+|                          Gaelan |               10 |
+|                             omd |                5 |
+|                          Murphy |                5 |
+|                          ais523 |                4 |
+|                          ATMunn |                3 |
+|                          R. Lee |                2 |
+|                      D. Margaux |                1 |
+|                          Oerjan |                1 |
+|                     Cuddle Beam |                1 |
+
+G. and Jason are in a very close first and second place, with G. having co-authored just one more proposal. After those
+two, Aris has co-authored the third most proposals, and e is followed by a batch of people who have co-authored ~15
+proposals each. As e did for authoring proposals, Alexis has co-authored a surprisingly large number of proposals for
+the amount of time that e was a player (during the period these data cover).
+
+Another oddity is that ais523, who was never a player during the time that these data cover, has been listed as a
+co-author on 4 proposals (P8346, P8408, P8431, and P8460). This makes sense, given that ais523 is a watcher and has
+suggested proposals or contributed to their drafting, without being able to submit proposals emself. This is similarly
+the case for Oerjan, although e has only co-authored one proposal (P8247).
+
+A few people have co-authored more proposals than they have submitted: Falsifian, Trigon, PSS, omd, ais523, and
+Oerjan. This makes sense as a possibility, because being listed as a co-author generally requires much less effort than
+submitting an equivalent proposal (contributing to the discussion vs going through all the details by oneself).
+
+**MOST INFLUENTIAL: G.**
+
 ## 2. Voting
 
 ### Or: The other half of the data I have.
@@ -1021,6 +1067,7 @@ Influencer summary:
 * Authored proposal margin (all): PSS
 * Authored proposal margin (adopted): PSS
 * Authored proposal margin (rejected): G.
+* Co-authored proposals: G.
 * Vote count: Jason
 * Voting strength max: Trigon
 * Voting strength average: G.
@@ -1033,7 +1080,7 @@ Influencer summary:
 | :----- | :--------------- | ----: |
 | Aris   | 1 + 1 + 1        |   3.0 |
 | PSS    | 1 + 1 + 1 + 1    |   4.0 |
-| G.     | 1 + 1 + 0.5      |   2.5 |
+| G.     | 1 + 1 + 1 + 0.5  |   3.5 |
 | Jason  | 1 + 1 + 0.5 + 1  |   3.5 |
 | Trigon | 1                |   1.0 |
 
