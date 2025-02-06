@@ -38,6 +38,8 @@
             '';
 
             installPhase = ''
+              rm _site/feed.xml _site/index.md
+
               mkdir -- "$out"
               cp -R -- _site/* "$out"
             '';
