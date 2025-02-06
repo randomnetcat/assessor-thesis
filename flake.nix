@@ -17,6 +17,8 @@
       in
       {
         packages = rec {
+          # Based on https://technogothic.net/pages/JekyllOnNix/
+
           site = pkgs.stdenv.mkDerivation {
             name = "assessor-thesis-site";
 
