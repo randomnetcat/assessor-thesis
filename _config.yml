@@ -1,0 +1,22 @@
+title: assessor-thesis
+description: "Agoran thesis analyzing voting and proposal data."
+baseurl: "/assessor-thesis" # the subpath of your site, e.g. /blog
+url: "https://randomcat.org"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - flake.nix
+  - flake.lock
+  - gemset.nix
